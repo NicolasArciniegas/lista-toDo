@@ -90,7 +90,7 @@ export function App() {
   return (
     <div className="main">
       <div className="titulo">
-        <h4>Lista de Todos</h4>
+        <h4>Lista de ToDos</h4>
       </div>
       <div>
         {items.length > 0 ? (
