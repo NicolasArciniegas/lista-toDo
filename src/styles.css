@@ -1,0 +1,46 @@
+/* CONTENEDOR PRINCIPAL */
+
+.main {
+  background-color: rgb(220, 225, 231);
+  position: absolute;
+  width: 30rem;
+  border-radius: 0.5rem;
+  margin: 3rem;
+}
+
+.titulo {
+  margin: 0.9rem;
+}
+
+/* TODO ITEM */
+
+.todoItem {
+  display: flex;
+  margin: 0 0.9rem;
+  justify-content: space-between;
+}
+.botoneraTodo {
+  display: flex;
+}
+
+.botoneraTodo button {
+  margin: 0.09rem;
+}
+
+/* BOTONERA */
+.botonera {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0.5rem;
+}
+.botonera input {
+  border: none;
+  border-radius: 0.3rem;
+}
+
+/* SIN CONTENIDO*/
+
+.sincontenido {
+  margin: 0.9rem;
+}

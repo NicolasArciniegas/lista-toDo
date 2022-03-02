@@ -1,3 +1,12 @@
+TODO LIST PROJECT
+
+Este es un ejemplo de TodoList con react.
+Se emplearon herramientas como npx create-react-app, react-bootstrap, bootstrap y demas incluidas
+en los modulos de npm.
+
+En este repositorio hay un componente de todoList muy sencillo, que permite crear y eliminar items a la lista toDo,
+al igual que permite cambiar el estado de cada uno de los dos.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
